@@ -1,0 +1,10 @@
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\bin\Debug\netcoreapp3.1\USSD.App.deps.json
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\bin\Debug\netcoreapp3.1\USSD.App.dll
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\bin\Debug\netcoreapp3.1\USSD.App.pdb
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\obj\Debug\netcoreapp3.1\USSD.App.csproj.AssemblyReference.cache
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\obj\Debug\netcoreapp3.1\USSD.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\obj\Debug\netcoreapp3.1\USSD.App.AssemblyInfoInputs.cache
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\obj\Debug\netcoreapp3.1\USSD.App.AssemblyInfo.cs
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\obj\Debug\netcoreapp3.1\USSD.App.csproj.CoreCompileInputs.cache
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\obj\Debug\netcoreapp3.1\USSD.App.dll
+C:\Users\msasa.l\source\repos\USSD_Tester\USSD_Tester.Application\obj\Debug\netcoreapp3.1\USSD.App.pdb

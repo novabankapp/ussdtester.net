@@ -1,0 +1,34 @@
+﻿<Window x:Class="USSD_Tester.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:USSD_Tester"
+        mc:Ignorable="d"
+        Title="Mizu USSD" Height="450" Width="300">
+    <Grid>
+        <TextBlock Name="USSDText" Background="#CCC"  
+                   TextAlignment="Center" 
+                   HorizontalAlignment="Center" 
+                   Text="{Binding Data.Response,UpdateSourceTrigger=PropertyChanged}"
+                   Height="239" Margin="0,18,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="260">
+           
+        </TextBlock>
+        <TextBox Name="USSDRequest"
+                 HorizontalAlignment="Center" 
+                 FontSize="24" Height="35"
+                 Margin="0,272,0,0" TextWrapping="Wrap" 
+                 Text="{Binding Data.Request,UpdateSourceTrigger=PropertyChanged}"
+                 VerticalAlignment="Top" 
+                 Width="260" 
+                 TextChanged="TextBox_TextChanged"/>
+        <Button Content="Send" 
+                HorizontalAlignment="Left" 
+                Height="31" Margin="96,322,0,0" 
+                VerticalAlignment="Top" 
+                Width="126" 
+                Command="{Binding UpdateCommand}"
+                />
+
+    </Grid>
+</Window>
